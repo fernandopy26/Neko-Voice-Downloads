@@ -1,0 +1,6 @@
+*.zip
+*.exe
+*.log
+.env
+__pycache__/
+data/
